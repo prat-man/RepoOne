@@ -1,6 +1,4 @@
-@Author(Pratanu Mandal & Sanjay Deb)
+@Author(Pratanu Mandal)
 
 Hello World!
 This is a test.
-
-This is another test.
